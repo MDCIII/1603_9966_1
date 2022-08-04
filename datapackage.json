@@ -1,0 +1,3006 @@
+{
+  "name": "1603",
+  "resources": [
+    {
+      "name": "1603_9966_1_0",
+      "path": "1603/9966/1/0/1603_9966_1_0.no1.bcp47.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "qcc-Zxxx-r-sU2200-s1603-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1960",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1961",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1962",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1963",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1964",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1965",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1966",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1967",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1968",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1969",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1970",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1971",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1972",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1973",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1974",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1975",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1976",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1977",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1978",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1979",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1980",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1981",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1982",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1983",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1984",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1985",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1986",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1987",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1988",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1989",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1990",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1991",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1992",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1993",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1994",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1995",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1996",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1997",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1998",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1999",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2000",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2001",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2002",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2003",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2004",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2005",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2006",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2007",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2008",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2009",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2010",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2011",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2012",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2013",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2014",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2015",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2016",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2017",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2018",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2019",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2020",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2021",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1960-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1961-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1962-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1963-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1964-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1965-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1966-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1967-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1968-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1969-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1970-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1971-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1972-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1973-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1974-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1975-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1976-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1977-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1978-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1979-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1980-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1981-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1982-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1983-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1984-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1985-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1986-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1987-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1988-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1989-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1990-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1991-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1992-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1993-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1994-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1995-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1996-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1997-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1998-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1999-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2000-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2001-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2002-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2003-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2004-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2005-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2006-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2007-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2008-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2009-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2010-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2011-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2012-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2013-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2014-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2015-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2016-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2017-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2018-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2019-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2020-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2021-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1960-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1961-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1962-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1963-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1964-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1965-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1966-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1967-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1968-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1969-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1970-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1971-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1972-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1973-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1974-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1975-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1976-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1977-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1978-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1979-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1980-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1981-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1982-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1983-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1984-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1985-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1986-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1987-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1988-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1989-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1990-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1991-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1992-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1993-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1994-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1995-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1996-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1997-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1998-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1999-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2000-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2001-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2002-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2003-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2004-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2005-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2006-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2007-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2008-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2009-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2010-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2011-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2012-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2013-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2014-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2015-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2016-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2017-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2018-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2019-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2020-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2021-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1960-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1961-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1962-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1963-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1964-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1965-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1966-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1967-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1968-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1969-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1970-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1971-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1972-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1973-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1974-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1975-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1976-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1977-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1978-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1979-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1980-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1981-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1982-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1983-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1984-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1985-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1986-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1987-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1988-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1989-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1990-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1991-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1992-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1993-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1994-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1995-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1996-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1997-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1998-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v1999-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2000-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2001-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2002-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2003-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2004-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2005-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2006-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2007-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2008-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2009-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2010-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2011-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2012-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2013-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2014-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2015-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2016-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2017-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2018-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2019-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2020-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1082-ps1603-x-iso8601v2021-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1960",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1961",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1962",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1963",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1964",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1965",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1966",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1967",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1968",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1969",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1970",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1971",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1972",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1973",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1974",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1975",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1976",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1977",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1978",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1979",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1980",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1981",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1982",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1983",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1984",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1985",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1986",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1987",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1988",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1989",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1990",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1991",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1992",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1993",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1994",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1995",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1996",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1997",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1998",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1999",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2000",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2001",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2002",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2003",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2004",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2005",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2006",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2007",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2008",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2009",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2010",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2011",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2012",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2013",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2014",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2015",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2016",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2017",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2018",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2019",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2020",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2021",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1960-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1961-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1962-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1963-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1964-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1965-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1966-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1967-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1968-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1969-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1970-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1971-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1972-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1973-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1974-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1975-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1976-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1977-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1978-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1979-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1980-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1981-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1982-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1983-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1984-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1985-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1986-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1987-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1988-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1989-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1990-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1991-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1992-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1993-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1994-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1995-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1996-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1997-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1998-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1999-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2000-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2001-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2002-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2003-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2004-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2005-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2006-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2007-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2008-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2009-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2010-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2011-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2012-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2013-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2014-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2015-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2016-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2017-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2018-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2019-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2020-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2021-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1960-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1961-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1962-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1963-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1964-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1965-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1966-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1967-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1968-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1969-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1970-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1971-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1972-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1973-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1974-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1975-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1976-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1977-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1978-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1979-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1980-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1981-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1982-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1983-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1984-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1985-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1986-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1987-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1988-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1989-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1990-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1991-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1992-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1993-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1994-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1995-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1996-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1997-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1998-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1999-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2000-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2001-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2002-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2003-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2004-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2005-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2006-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2007-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2008-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2009-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2010-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2011-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2012-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2013-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2014-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2015-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2016-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2017-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2018-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2019-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2020-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2021-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1960-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1961-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1962-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1963-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1964-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1965-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1966-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1967-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1968-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1969-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1970-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1971-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1972-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1973-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1974-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1975-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1976-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1977-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1978-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1979-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1980-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1981-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1982-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1983-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1984-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1985-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1986-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1987-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1988-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1989-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1990-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1991-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1992-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1993-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1994-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1995-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1996-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1997-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1998-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v1999-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2000-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2001-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2002-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2003-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2004-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2005-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2006-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2007-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2008-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2009-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2010-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2011-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2012-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2013-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2014-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2015-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2016-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2017-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2018-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2019-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2020-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1539-ps1603-x-iso8601v2021-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1960",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1961",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1962",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1963",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1964",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1965",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1966",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1967",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1968",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1969",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1970",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1971",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1972",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1973",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1974",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1975",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1976",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1977",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1978",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1979",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1980",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1981",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1982",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1983",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1984",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1985",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1986",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1987",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1988",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1989",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1990",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1991",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1992",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1993",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1994",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1995",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1996",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1997",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1998",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1999",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2000",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2001",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2002",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2003",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2004",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2005",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2006",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2007",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2008",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2009",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2010",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2011",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2012",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2013",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2014",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2015",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2016",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2017",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2018",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2019",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2020",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2021",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1960-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1961-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1962-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1963-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1964-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1965-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1966-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1967-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1968-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1969-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1970-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1971-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1972-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1973-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1974-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1975-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1976-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1977-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1978-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1979-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1980-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1981-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1982-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1983-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1984-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1985-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1986-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1987-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1988-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1989-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1990-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1991-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1992-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1993-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1994-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1995-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1996-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1997-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1998-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1999-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2000-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2001-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2002-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2003-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2004-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2005-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2006-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2007-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2008-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2009-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2010-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2011-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2012-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2013-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2014-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2015-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2016-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2017-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2018-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2019-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2020-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2021-xywdatap2899v0-xywdatap4135v14",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1960-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1961-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1962-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1963-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1964-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1965-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1966-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1967-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1968-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1969-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1970-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1971-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1972-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1973-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1974-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1975-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1976-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1977-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1978-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1979-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1980-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1981-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1982-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1983-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1984-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1985-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1986-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1987-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1988-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1989-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1990-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1991-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1992-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1993-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1994-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1995-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1996-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1997-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1998-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1999-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2000-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2001-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2002-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2003-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2004-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2005-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2006-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2007-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2008-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2009-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2010-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2011-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2012-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2013-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2014-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2015-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2016-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2017-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2018-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2019-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2020-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2021-xywdatap2899v15-xywdatap4135v64",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1960-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1961-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1962-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1963-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1964-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1965-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1966-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1967-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1968-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1969-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1970-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1971-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1972-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1973-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1974-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1975-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1976-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1977-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1978-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1979-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1980-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1981-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1982-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1983-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1984-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1985-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1986-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1987-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1988-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1989-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1990-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1991-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1992-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1993-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1994-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1995-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1996-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1997-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1998-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v1999-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2000-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2001-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2002-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2003-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2004-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2005-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2006-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2007-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2008-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2009-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2010-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2011-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2012-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2013-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2014-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2015-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2016-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2017-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2018-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2019-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2020-xywdatap2899v65",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1540-ps1603-x-iso8601v2021-xywdatap2899v65",
+            "type": "string"
+          }
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
+      },
+      "stats": {
+        "fields": 746,
+        "rows": 266
+      }
+    }
+  ]
+}
